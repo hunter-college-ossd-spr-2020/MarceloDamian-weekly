@@ -1,0 +1,90 @@
+#
+# This file contains configuration flags to customize your site
+#
+
+# CUSTOMIZE
+# Name of your site (displayed in the header)
+# This should be your name or nickname.
+name: Your Name
+
+# CUSTOMIZE
+# Short bio or description aout you (displayed in the header)
+description: Student in CSci 395.86 in Hunter College, Spring 2020
+
+# CUSTOMIZE
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: https://avatars3.githubusercontent.com/u/51339031?v=4
+
+
+# CUSTOMIZE
+#
+# Flags below are optional - customize them if you wish
+# The github flag should be replaced by your own github account name.
+#
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email:
+  facebook:
+  flickr:
+  github:    hunter-college-ossd-spr-2020
+  instagram:
+  linkedin:
+  pinterest:
+  twitter:
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube:       # channel/<your_long_string> or user/<user-name>
+  googleplus:    # anything in your profile username that comes after plus.google.com/
+
+# CUSTOMIZE
+# The line below will be the URL of your weekly repository
+# (e.g. https://hunter-college-ossd-spr-2020.github.io/weekly )
+# You must replace the last part of the URL, i.e., the word "weekly", by the 
+# name of your own repository, which must be of the form, "your-username-weekly"
+# where "your-username" is your GitHub username.
+
+url: "https://hunter-college-ossd-spr-2020.github.io/weekly" 
+
+# CUSTOMIZE
+# The baseurl is used by Jekyll as a relative repository name.
+# You must replace the word "weekly" below by the name of your own repository,
+# which must be of the form, "your-username-weekly"
+# where "your-username" is your GitHub username. It must begin with the "/" -
+# do not remove it.
+
+baseurl: "/weekly"
+
+#
+# !! You don't need to change any of the configuration flags below !!
+#   (but you may, if you know what you are doing)
+#
+
+permalink: /:title/
+
+# The release of Jekyll Now that you're using
+version: v1.2.0
+
+# Jekyll 3 now only supports Kramdown for Markdown
+kramdown:
+  # Use GitHub flavored markdown, including triple backtick fenced code blocks
+  input: GFM
+  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    # Use existing pygments syntax highlighting css
+    css_class: 'highlight'
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :expanded # You might prefer to minify using :compressed
+
+# Use the following plug-ins
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
