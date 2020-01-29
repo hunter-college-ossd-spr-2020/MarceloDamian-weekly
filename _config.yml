@@ -5,11 +5,11 @@
 # CUSTOMIZE
 # Name of your site (displayed in the header)
 # This should be your name or nickname.
-name: Your Name
+name: Erick Cabrera
 
 # CUSTOMIZE
 # Short bio or description aout you (displayed in the header)
-description: Student in CSci 395.86 in Hunter College, Spring 2020
+description: Student in CSci 395.86 in Hunter College, Spring 2020.
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
@@ -24,12 +24,12 @@ avatar: https://avatars3.githubusercontent.com/u/51339031?v=4
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: ericks.site0@gmail.com
   facebook:
   flickr:
-  github:    hunter-college-ossd-spr-2020
-  instagram:
-  linkedin:
+  github: hunter-college-ossd-spr-2020
+  instagram: 
+  linkedin: www.linkedin.com/in/erick-cabrera-56449a186
   pinterest:
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
@@ -43,7 +43,7 @@ footer-links:
 # name of your own repository, which must be of the form, "your-username-weekly"
 # where "your-username" is your GitHub username.
 
-url: "https://hunter-college-ossd-spr-2020.github.io/weekly" 
+url: "https://hunter-college-ossd-spr-2020.github.io/MarceloDamian-weekly" 
 
 # CUSTOMIZE
 # The baseurl is used by Jekyll as a relative repository name.
@@ -52,7 +52,7 @@ url: "https://hunter-college-ossd-spr-2020.github.io/weekly"
 # where "your-username" is your GitHub username. It must begin with the "/" -
 # do not remove it.
 
-baseurl: "/weekly"
+baseurl: "/MarceloDamian-weekly"
 
 #
 # !! You don't need to change any of the configuration flags below !!
