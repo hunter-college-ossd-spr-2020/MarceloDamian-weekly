@@ -26,3 +26,14 @@ following the same syntax.
 |  2   | [link to contribution](https://github.com/stewartweiss/butterfly-network/blob/master/butterfly_edges.c)    | Project code    |   I wrote a program for the repository ....    |
 |     |     |     |      |
 |     |     |     |      |
+
+| Week #       | Contribution (Link)  | Type  | Description |
+|---|:---|:---|:---|
+|  3   | [link to contribution](https://github.com/stewartweiss/butterfly-network/blob/master/butterfly_edges.c)    | Project code    |   I wrote a program for the repository ....    |
+|     |     |     |      |
+|     |     |     |      |
+
+
+
+
+
