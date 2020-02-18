@@ -29,9 +29,10 @@ following the same syntax.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-|  3   | [link to contribution](https://github.com/stewartweiss/butterfly-network/blob/master/butterfly_edges.c)    | Project code    |   I wrote a program for the repository ....    |
-|     |     |     |      |
-|     |     |     |      |
+|  3   | [link to contribution](https://www.openstreetmap.org/changeset/81156359)    | Openstreet Maps ID   |   I added a supermarket to the open source webpage Openstreet maps.    |
+|  3  | [link to contribution](https://www.openstreetmap.org/changeset/81156186)    | Openstreet Maps ID   |   I added a restaurant to the open source webpage Openstreet maps.    |
+|  3  | [link to contribution](https://www.openstreetmap.org/changeset/81148459)    | Openstreet Maps ID   |   I added a fast-food restaurant to the open source webpage Openstreet maps.    |
+|  3  | [link to contribution](https://www.openstreetmap.org/changeset/81148329)    | Openstreet Maps ID   |   I added a house to the open source webpage Openstreet maps.    |
 
 
 
