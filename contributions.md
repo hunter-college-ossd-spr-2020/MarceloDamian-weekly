@@ -17,16 +17,6 @@ following the same syntax.
 
 -->
 
-
-
-
-
-| Week #       | Contribution (Link)  | Type  | Description |
-|---|:---|:---|:---|
-|  2   | [link to contribution](https://github.com/stewartweiss/butterfly-network/blob/master/butterfly_edges.c)    | Project code    |   I wrote a program for the repository ....    |
-|     |     |     |      |
-|     |     |     |      |
-
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 |  3   | [https://www.openstreetmap.org/changeset/81156359](https://www.openstreetmap.org/changeset/81156359)    | Openstreet Maps ID   |   I added a supermarket to the open source webpage Openstreet maps.    |
