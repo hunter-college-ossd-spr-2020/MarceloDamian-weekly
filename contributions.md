@@ -23,6 +23,7 @@ following the same syntax.
 |  3  | [https://www.openstreetmap.org/changeset/81156186](https://www.openstreetmap.org/changeset/81156186)    | Openstreet Maps ID   |   I added a restaurant to the open source webpage Openstreet maps.    |
 |  3  | [https://www.openstreetmap.org/changeset/81148459](https://www.openstreetmap.org/changeset/81148459)    | Openstreet Maps ID   |   I added a fast-food restaurant to the open source webpage Openstreet maps.    |
 |  3  | [https://www.openstreetmap.org/changeset/81148329](https://www.openstreetmap.org/changeset/81148329)    | Openstreet Maps ID   |   I added a house to the open source webpage Openstreet maps.    |
+|  5  | [https://www.openstreetmap.org/changeset/81675733](https://www.openstreetmap.org/changeset/81675733)    | Openstreet Maps ID   |   I added a post office to the open source webpage Openstreet maps.    |
 
 
 
