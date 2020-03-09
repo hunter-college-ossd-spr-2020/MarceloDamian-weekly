@@ -26,6 +26,7 @@ following the same syntax.
 |  4  | [https://www.openstreetmap.org/changeset/81148329](https://www.openstreetmap.org/changeset/81148329)    | Openstreet Maps ID   |   I added a house to the open source webpage Openstreet maps.    |
 |  4  | [Edited blog post (click for link)](https://github.com/hunter-college-ossd-spr-2020/chislee0708-weekly/blob/gh-pages/_posts/2020-02-16-week03.md) | Edited chislee0708 Blog! | I edited chislee0708's blog for grammatical mistakes! |  
 |  5  | [https://www.openstreetmap.org/changeset/81675733](https://www.openstreetmap.org/changeset/81675733)    | Openstreet Maps ID   |   I added a post office to the open source webpage Openstreet maps.    |
+|  6  | [Edited blog post (click for link)](https://github.com/hunter-college-ossd-spr-2020/Ks5810-weekly/blob/gh-pages/_posts/2020-03-01-week05.md)    | Edited Ks5810's blog | I edited Ks5810's blog for grammatical mistakes! |
 
 
 
