@@ -29,7 +29,7 @@ following the same syntax.
 |  5  | [Edited blog post (click for link)](https://github.com/hunter-college-ossd-spr-2020/Ks5810-weekly/blob/gh-pages/_posts/2020-03-01-week05.md)    | Edited Ks5810's blog | I edited Ks5810's blog for grammatical mistakes! |
 |  6  | [Edited blog post (click for link)](https://github.com/hunter-college-ossd-spr-2020/MichelleLucero-weekly/blob/gh-pages/_posts/2020-03-01-week05.md)    | Edited MichelleLuceros's blog | I edited MichelleLuceros's blog for grammatical mistakes! |
 |  6 |[https://www.openstreetmap.org/changeset/81957603](https://www.openstreetmap.org/changeset/81957603)    | Openstreet Maps ID   |   I added a nail parlor to the open source webpage Openstreet maps.    |
-|  7 |[Edited blog post (click for link](https://github.com/hunter-college-ossd-spr-2020/ElijahCano33-weekly/blob/gh-pages/_posts/2020-03-01-week05.md)| Edited ElijahCano33's blog | I edited ElijahCano33's blog for grammatical mistakes!|
+|  7 |[Edited blog post (click for link)](https://github.com/hunter-college-ossd-spr-2020/ElijahCano33-weekly/blob/gh-pages/_posts/2020-03-01-week05.md)| Edited ElijahCano33's blog | I edited ElijahCano33's blog for grammatical mistakes!|
 |  7 |[https://www.openstreetmap.org/changeset/82325085](https://www.openstreetmap.org/changeset/82325085)    | Openstreet Maps ID   |  I added a cafe/restaurant I typically go to, to the open source webpage Openstreet maps.  |
 
 
