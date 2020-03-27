@@ -34,7 +34,7 @@ following the same syntax.
 |  8 |[Edited blog post (click for link)](https://github.com/hunter-college-ossd-spr-2020/Megamega53-weekly/blob/gh-pages/_posts/2020-03-08-week06.md)    | Edited Megamega53   |  I edited Megamega53's blog for grammatical mistakes!  |
 |  8 |[https://www.openstreetmap.org/changeset/82512619](https://www.openstreetmap.org/changeset/82512619)    | Openstreet Maps ID   |  I added a variety store that I typically go to, to the open source webpage Openstreet maps.  |
 |  9 |[First Wiki Edit!](https://en.wikipedia.org/w/index.php?title=Alan_Turing&oldid=947592937) | Wiki Edit| I edited Alan Turing's wiki for grammatical mistakes. |
-|  9 |[Second Wiki Edit!](https://en.wikipedia.org/w/index.php?title=Bard_High_School_Early_College&oldid=947593097() |Wiki Edit| I edited Bard High School Early College's wiki for grammatical mistakes. |
+|  9 |[Second Wiki Edit!](https://en.wikipedia.org/w/index.php?title=Bard_High_School_Early_College&oldid=947593097) |Wiki Edit| I edited Bard High School Early College's wiki for grammatical mistakes. |
 
 
 
