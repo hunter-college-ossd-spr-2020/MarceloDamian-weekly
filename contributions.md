@@ -37,7 +37,7 @@ following the same syntax.
 |  8 |[Second Wiki Edit!](https://en.wikipedia.org/w/index.php?title=Bard_High_School_Early_College&oldid=947593097) |Wiki Edit| I edited Bard High School Early College's wiki for grammatical mistakes. |
 |  9 |[Third Wiki Edit!](https://en.wikipedia.org/w/index.php?title=Big_O_notation&oldid=948825518) | Wiki Edit| I edited Big O notation's wiki for grammatical mistakes. |
 |  9 |[Fourth Wiki Edit!](https://en.wikipedia.org/w/index.php?title=Abstract_data_type&oldid=948827345) |Wiki Edit| I edited Abstract Data Types's wiki for grammatical mistakes. |
-|  9 |[https://www.openstreetmap.org/changeset/83015029](https://www.openstreetmap.org/changeset/83015029) |Open Street Maps| I added a starbucks coffee shop near my house! |
+|  9 |[https://www.openstreetmap.org/changeset/83015029](https://www.openstreetmap.org/changeset/83015029) |Open Street Maps| I added a starbucks coffee shop near Hunter College! |
 
 
 
