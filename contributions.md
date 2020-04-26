@@ -29,9 +29,9 @@ following the same syntax.
 |  5  | [Edited blog post (click for link)](https://github.com/hunter-college-ossd-spr-2020/Ks5810-weekly/blob/gh-pages/_posts/2020-03-01-week05.md)    | Edited Ks5810's blog | I edited Ks5810's blog for grammatical mistakes! |
 |  6  | [Edited blog post (click for link)](https://github.com/hunter-college-ossd-spr-2020/MichelleLucero-weekly/blob/gh-pages/_posts/2020-03-01-week05.md) | Edited MichelleLuceros's blog | I edited MichelleLuceros's blog for grammatical mistakes and nuances! |
 |  6 |[https://www.openstreetmap.org/changeset/81957603](https://www.openstreetmap.org/changeset/81957603)    | OpenStreet Map feature  |   I added a nail parlor to the open source webpage Openstreet maps.    |
-|  7 |[Edited blog post (click for link)](https://github.com/hunter-college-ossd-spr-2020/ElijahCano33-weekly/blob/gh-pages/_posts/2020-03-01-week05.md)| Edited ElijahCano33's blog | I edited ElijahCano33's blog for grammatical mistakes!|
+|  7 |[Edited blog post (click for link)](https://github.com/hunter-college-ossd-spr-2020/ElijahCano33-weekly/blob/gh-pages/_posts/2020-03-01-week05.md)| Edited ElijahCano33's blog | I edited ElijahCano33's blog for grammatical mistakes and nuances!|
 |  7 |[https://www.openstreetmap.org/changeset/82325085](https://www.openstreetmap.org/changeset/82325085)    | OpenStreet Map feature   |  I added a cafe/restaurant, I typically go to, to the open source webpage Openstreet maps.  |
-|  8 |[Edited blog post (click for link)](https://github.com/hunter-college-ossd-spr-2020/Megamega53-weekly/blob/gh-pages/_posts/2020-03-08-week06.md)    | Edited Megamega53   |  I edited Megamega53's blog for grammatical mistakes and nuances!  |
+|  8 |[Edited blog post (click for link)](https://github.com/hunter-college-ossd-spr-2020/Megamega53-weekly/blob/gh-pages/_posts/2020-03-08-week06.md)    | Edited Megamega53 | I edited Megamega53's blog for grammatical mistakes and nuances!  |
 |  8 |[https://www.openstreetmap.org/changeset/82512619](https://www.openstreetmap.org/changeset/82512619)    | OpenStreet Map feature  |  I added a variety store that I typically go to, to the open source webpage Openstreet maps.  |
 |  8 |[First Wiki Edit!](https://en.wikipedia.org/w/index.php?title=Alan_Turing&oldid=947592937) | Wiki Edit| I edited Alan Turing's wiki for grammatical mistakes and nuances. |
 |  8 |[Second Wiki Edit!](https://en.wikipedia.org/w/index.php?title=Bard_High_School_Early_College&oldid=947593097) |Wiki Edit| I edited Bard High School Early College's wiki for grammatical mistakes. |
@@ -43,8 +43,8 @@ following the same syntax.
 | 10 |[docs(README): updated verbiage to sound more natural](https://github.com/freeCodeCamp/freeCodeCamp/pull/38561)|freeCodeCamp's Contribution!| I updated verbiage to sound more natural in freeCodeCamp's README.md|
 | 11 |[Sixth Wiki Edit!](https://en.wikipedia.org/w/index.php?title=HeLa&oldid=953193135) | Wiki Edit!! | I edited HeLa's wiki for grammaticatical mistakes and nuances. |
 | 11 |[Seventh Wiki Edit!](https://en.wikipedia.org/w/index.php?title=Depth-first_search&oldid=953198849)| Wiki Edit!!| I edited Depth-first search's wiki for grammatical mistakes and nuances.|
-| 11 |[]()|  |  |
-| 11 |[]()|   |  |
+| 11 |[Additional blog post (click for link)](https://github.com/hunter-college-ossd-spr-2020/ElijahCano33-weekly/pull/10/commits)|Edited ElijahCano33's blog!  | I edited ElijahCano33's blog for grammatical mistakes, nuances and clarification! |
+| 11 |[Additional blog post (click for link)](https://github.com/hunter-college-ossd-spr-2020/matter13311-weekly/pull/3/files)| Edited matter13311's blog!| I edited matter13311's blog for grammatical mistakes, nuances and clarification!  |
 
 
 
