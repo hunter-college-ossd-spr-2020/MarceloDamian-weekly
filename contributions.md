@@ -43,7 +43,7 @@ following the same syntax.
 | 10 |[docs(README): updated verbiage to sound more natural](https://github.com/freeCodeCamp/freeCodeCamp/pull/38561)|freeCodeCamp's Contribution!| I updated verbiage to sound more natural in freeCodeCamp's README.md|
 | 11 |[Sixth Wiki Edit!](https://en.wikipedia.org/w/index.php?title=HeLa&oldid=953193135) | Wiki Edit!! | I edited HeLa's wiki for grammaticatical mistakes and nuances. |
 | 11 |[Seventh Wiki Edit!](https://en.wikipedia.org/w/index.php?title=Depth-first_search&oldid=953198849)| Wiki Edit!!| I edited Depth-first search's wiki for grammatical mistakes and nuances.|
-| 11 |[Additional blog post (click for link)](https://github.com/hunter-college-ossd-spr-2020/ElijahCano33-weekly/pull/10/commits)|Edited ElijahCano33's blog!  | I edited ElijahCano33's blog for grammatical mistakes, nuances and clarification! |
+| 11 |[Additional blog post (click for link)](https://github.com/hunter-college-ossd-spr-2020/ElijahCano33-weekly/pull/10/files)|Edited ElijahCano33's blog!  | I edited ElijahCano33's blog for grammatical mistakes, nuances and clarification! |
 | 11 |[Additional blog post (click for link)](https://github.com/hunter-college-ossd-spr-2020/matter13311-weekly/pull/3/files)| Edited matter13311's blog!| I edited matter13311's blog for grammatical mistakes, nuances and clarification!  |
 
 
