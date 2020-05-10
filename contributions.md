@@ -16,7 +16,7 @@ Replace the first row below with your contribution and add new ones below it
 following the same syntax.
 
 -->
-
+```diff
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 |  3   | [https://www.openstreetmap.org/changeset/81156359](https://www.openstreetmap.org/changeset/81156359)    | OpenStreet Map feature   |   I added a supermarket to the open source webpage Openstreet maps.    |
@@ -45,11 +45,9 @@ following the same syntax.
 | 11 |[Seventh Wiki Edit!](https://en.wikipedia.org/w/index.php?title=Depth-first_search&oldid=953198849)| Wiki Edit!!| I edited Depth-first search's wiki for grammatical mistakes and nuances.|
 | 11 |[Additional blog post (click for link)](https://github.com/hunter-college-ossd-spr-2020/ElijahCano33-weekly/pull/10/files)|Edited ElijahCano33's blog!  | I edited ElijahCano33's blog for grammatical mistakes, nuances and clarification! |
 | 11 |[Additional blog post (click for link)](https://github.com/hunter-college-ossd-spr-2020/matter13311-weekly/pull/3/files)| Edited matter13311's blog!| I edited matter13311's blog for grammatical mistakes, nuances and clarification!  |
-```diff 
-+ | **11** |[fix(tools) Fixed documentation on different .js files ](https://github.com/freeCodeCamp/freeCodeCamp/pull/38642)|**freeCodeCamp's contribution!** | **I revised several comments on different .js files in the tools directory**|
+ + | **11** |[fix(tools) Fixed documentation on different .js files ](https://github.com/freeCodeCamp/freeCodeCamp/pull/38642)|**freeCodeCamp's contribution!** | **I revised several comments on different .js files in the tools directory**|
 + | **11** |[docs(tools): update broken link to dashboard](https://github.com/freeCodeCamp/freeCodeCamp/pull/38643)|**freeCodeCamp's contribution!**| **Re-wrote an entire description and included a link to contributions!**|
 ```
-
 
 
 
