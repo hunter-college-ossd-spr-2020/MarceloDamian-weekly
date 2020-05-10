@@ -46,7 +46,7 @@ following the same syntax.
 | 11 |[Additional blog post (click for link)](https://github.com/hunter-college-ossd-spr-2020/ElijahCano33-weekly/pull/10/files)|Edited ElijahCano33's blog!  | I edited ElijahCano33's blog for grammatical mistakes, nuances and clarification! |
 | 11 |[Additional blog post (click for link)](https://github.com/hunter-college-ossd-spr-2020/matter13311-weekly/pull/3/files)| Edited matter13311's blog!| I edited matter13311's blog for grammatical mistakes, nuances and clarification!  |
 | **11** |[fix(tools) Fixed documentation on different .js files ](https://github.com/freeCodeCamp/freeCodeCamp/pull/38642)|**freeCodeCamp's contribution!** | I revised several comments on different .js files in the tools directory|
-| **11** |[docs(tools): update broken link to dashboard](https://github.com/freeCodeCamp/freeCodeCamp/pull/38643)|freeCodeCamp's contribution!**| **Re-wrote an entire description and included a link to contributions!|
+| **11** |[docs(tools): update broken link to dashboard](https://github.com/freeCodeCamp/freeCodeCamp/pull/38643)|**freeCodeCamp's contribution!**| Re-wrote an entire description and included a link to contributions!|
 
 
 
