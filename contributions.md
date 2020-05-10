@@ -40,13 +40,13 @@ following the same syntax.
 |  9 |[https://www.openstreetmap.org/changeset/83015029](https://www.openstreetmap.org/changeset/83015029) |Open Street Maps| I added a starbucks coffee shop near Hunter College! |
 | 10 |[Fifth Wiki Edit!](https://en.wikipedia.org/w/index.php?title=Stack_(abstract_data_type)&oldid=952025793) |Wiki Edit!| I edited Stack's wiki for grammatical mistakes and nuances. |
 | 10 |[Sixth Wiki Edit!](https://en.wikipedia.org/w/index.php?title=Queue_(abstract_data_type)&oldid=952026304) |Wiki Edit!| I edited Queue's Wiki for grammatical mistakes and nuances!!|
-| 10 |[docs(README): updated verbiage to sound more natural](https://github.com/freeCodeCamp/freeCodeCamp/pull/38561)|**freeCodeCamp's Contribution**!| I updated verbiage to sound more natural in freeCodeCamp's README.md|
+| **10** |[docs(README): updated verbiage to sound more natural](https://github.com/freeCodeCamp/freeCodeCamp/pull/38561)|**freeCodeCamp's Contribution**!| I updated verbiage to sound more natural in freeCodeCamp's README.md|
 | 11 |[Sixth Wiki Edit!](https://en.wikipedia.org/w/index.php?title=HeLa&oldid=953193135) | Wiki Edit!! | I edited HeLa's wiki for grammaticatical mistakes and nuances. |
 | 11 |[Seventh Wiki Edit!](https://en.wikipedia.org/w/index.php?title=Depth-first_search&oldid=953198849)| Wiki Edit!!| I edited Depth-first search's wiki for grammatical mistakes and nuances.|
 | 11 |[Additional blog post (click for link)](https://github.com/hunter-college-ossd-spr-2020/ElijahCano33-weekly/pull/10/files)|Edited ElijahCano33's blog!  | I edited ElijahCano33's blog for grammatical mistakes, nuances and clarification! |
 | 11 |[Additional blog post (click for link)](https://github.com/hunter-college-ossd-spr-2020/matter13311-weekly/pull/3/files)| Edited matter13311's blog!| I edited matter13311's blog for grammatical mistakes, nuances and clarification!  |
-| 11 |[fix(tools) Fixed documentation on different .js files ](https://github.com/freeCodeCamp/freeCodeCamp/pull/38642)|**freeCodeCamp's contribution!** | I revised several comments on different .js files in the tools directory|
-| 11 |[docs(tools): update broken link to dashboard](https://github.com/freeCodeCamp/freeCodeCamp/pull/38643)|**freeCodeCamp's contribution!**| Re-wrote an entire description and included a link to contributions! |
+| **11** |[fix(tools) Fixed documentation on different .js files ](https://github.com/freeCodeCamp/freeCodeCamp/pull/38642)|**freeCodeCamp's contribution!** | I revised several comments on different .js files in the tools directory|
+| **11** |[docs(tools): update broken link to dashboard](https://github.com/freeCodeCamp/freeCodeCamp/pull/38643)|**freeCodeCamp's contribution!**| Re-wrote an entire description and included a link to contributions! |
 
 
 
