@@ -17,6 +17,18 @@ following the same syntax.
 
 -->
 
+
+
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+```
+
+
+
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 |  3   | [https://www.openstreetmap.org/changeset/81156359](https://www.openstreetmap.org/changeset/81156359)    | OpenStreet Map feature   |   I added a supermarket to the open source webpage Openstreet maps.    |
