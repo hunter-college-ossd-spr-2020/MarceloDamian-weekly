@@ -48,7 +48,8 @@ following the same syntax.
 | **11** |[fix(tools) Fixed documentation on different .js files ](https://github.com/freeCodeCamp/freeCodeCamp/pull/38642)|**freeCodeCamp's contribution!** | I revised several comments on different .js files in the tools directory|
 | **11** |[docs(tools): update broken link to dashboard](https://github.com/freeCodeCamp/freeCodeCamp/pull/38643)|**freeCodeCamp's contribution!**| Re-wrote an entire description and included a link to contributions!|
 | **12** |[Fix(Docs): cypress comments in commands.js!](https://github.com/freeCodeCamp/freeCodeCamp/pull/38724)|**freeCodeCamp's contribution!**| Fixed a comment in commands.js| 
-| **13** |[fix(cypress): revised kill signals to processes in e2e.sh (#38692)]()|**freeCodeCamp's contribution!**|Created a script that kills processes collectively rather than sequentially. This in turn allows for quicker integration of new processes in the future .|
+| **13** |[fix(cypress): revised kill signals to processes in e2e.sh (#38692)]()|**freeCodeCamp's contribution!**|Created a script that kills processes collectively rather than sequentially. This will in turn allows for quicker integration of new processes in the future .|
+| **13** |[fix(DOCS): Typo in comments #38778](https://github.com/freeCodeCamp/freeCodeCamp/pull/38778)|**freeCodeCamp's contribution!**|Fixed a comment in docker-compose-shared.yml! |
 
 
 
