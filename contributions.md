@@ -52,7 +52,7 @@ following the same syntax.
 | **13** |[fix(DOCS): Typo in comments ](https://github.com/freeCodeCamp/freeCodeCamp/pull/38778)|**freeCodeCamp's contribution!**|Fixed a comment in docker-compose-shared.yml! |
 | **13** |[docs: fixed header to match /learn](https://github.com/freeCodeCamp/freeCodeCamp/pull/38789)|**freeCodeCamp's contribution!**| I fixed the header to match their twitter page based off of their website freeCodeCamp.org/learn  |
 | **13** |[docs: changed headers to match learn part 2](https://github.com/freeCodeCamp/freeCodeCamp/pull/38793)|**freeCodeCamp's contribution!**| I overlooked the previous merge and forgot to also fix it for the original website freeCodeCamp.org |
-| **13** |[fixed activities count for consistency #22 on freeCodeCamp/discourse-theme repository](https://github.com/freeCodeCamp/discourse-theme/pull/22)|**freeCodeCamp's contribution!**| I forked, cloned, and seeded a new repository that went along with their main repository and fixed an issue I saw when navigating through the search bar. I fixed the activities that were outdated.|
+| **13** |[fixed activities count for consistency #22 on freeCodeCamp/discourse-theme repository](https://github.com/freeCodeCamp/discourse-theme/pull/22)|**freeCodeCamp's contribution!**| I forked, cloned, and seeded a "sister repository" that is an integral part of their main repository and fixed an issue I saw when navigating through the search bar on their website. I fixed the activities that were outdated.|
 
 
 
